@@ -10,7 +10,7 @@
 # An optional argument (-d or --delimiter) can be used to specify which
 # delimitir will be used to process the CSV (it must default to ",").
 
-# Implemented on Python 3.
+# Implemented on Python 3.6.
 
 import argparse
 
