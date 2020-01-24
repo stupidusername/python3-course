@@ -70,3 +70,6 @@ for row_number, line in enumerate(args.csv):
 # Prit the processed rows.
 for row in rows:
     print(row)
+
+# Close file.
+args.csv.close()
