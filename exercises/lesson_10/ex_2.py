@@ -1,5 +1,4 @@
 # Requirement:
-#
 # Write a decorator @validate_types that takes an optional argument called
 # valid_type (that can be a type or a tuple of types) and validates that all
 # the arguments passed to the function being decorated are instances of

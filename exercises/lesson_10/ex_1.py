@@ -1,5 +1,4 @@
 # Requirement:
-#
 # Define a decorator @debug that prints the name, arguments and return value of
 # a function.
 
